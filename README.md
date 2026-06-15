@@ -156,4 +156,4 @@ docker run -p 8501:8501 --env-file .env rag-qa-system
 - [x] Dockerfile 容器化配置
 - [x] 技术报告（单独文档）
 - [x] 向量数据库构建脚本（ingest.py）
-- [x] Streamlit 问答应用（app.py）
+- [x] Streamlit 问答应用（app.py）# RAG-
